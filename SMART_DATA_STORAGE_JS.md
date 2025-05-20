@@ -1,10 +1,8 @@
 # aldaketa
 
-Documentation for Homework: Smart Contract Data Storage
+Documentation for Homework: Smart Contract Data Storage (NodeJS/Hardhat Implemetation)
 
 ## Steps
-
-Ensure that Ganache package is installed globally.
 
 ```sh
 # 1. For NodeJS version, initialize Node project

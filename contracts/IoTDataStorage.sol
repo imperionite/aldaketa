@@ -3,44 +3,101 @@ pragma solidity ^0.8.0;
 
 contract IoTDataStorage {
     struct DataRecord {
-        string sensorId;      // e.g., SENSOR_Temperature
-        string dataType;      // e.g., Temperature (°C)
-        int256 value;         // Numeric value, defaults to 0 if missing
-        uint256 timestamp;    // Unix timestamp of when data is stored
+        string sensorId;
+        string dataType;
+        int256 value;
+        uint256 timestamp;
     }
 
     DataRecord[] public records;
 
-    event DataStored(string sensorId, string dataType, int256 value, uint256 timestamp);
+    event DataStored(
+        string sensorId,
+        string dataType,
+        int256 value,
+        uint256 timestamp
+    );
 
     // Store a new data point with input validation
-    function storeData(string memory sensorId, string memory dataType, int256 value) public {
+    function storeData(
+        string memory sensorId,
+        string memory dataType,
+        int256 value
+    ) public {
         require(bytes(sensorId).length > 0, "Sensor ID cannot be empty");
         require(bytes(dataType).length > 0, "Data type cannot be empty");
-        // Optional: Add domain-specific value checks if needed
-        // e.g., require(value >= -100 && value <= 100, "Value out of expected range");
 
         uint256 currentTime = block.timestamp;
 
-        records.push(DataRecord({
-            sensorId: sensorId,
-            dataType: dataType,
-            value: value,
-            timestamp: currentTime
-        }));
+        records.push(
+            DataRecord({
+                sensorId: sensorId,
+                dataType: dataType,
+                value: value,
+                timestamp: currentTime
+            })
+        );
 
         emit DataStored(sensorId, dataType, value, currentTime);
     }
 
-    // Retrieve a record by index with bounds checking
-    function getRecord(uint index) public view returns (string memory, string memory, int256, uint256) {
+    // Retrieve a record by index
+    function getRecord(
+        uint index
+    ) public view returns (string memory, string memory, int256, uint256) {
         require(index < records.length, "Index out of range");
         DataRecord memory record = records[index];
-        return (record.sensorId, record.dataType, record.value, record.timestamp);
+        return (
+            record.sensorId,
+            record.dataType,
+            record.value,
+            record.timestamp
+        );
     }
 
     // Get total number of stored records
     function getTotalRecords() public view returns (uint) {
         return records.length;
+    }
+
+    // Clear all records
+    function clearRecords() public {
+        delete records;
+    }
+
+    // Retrieve all records
+    function getAllRecords() public view returns (DataRecord[] memory) {
+        return records;
+    }
+
+    // function to reduce gas by storing multiple sensor readings in one call; Minimize on-chain cost by batching data
+    function storeBatchData(
+        string[] memory sensorIds,
+        string[] memory dataTypes,
+        int256[] memory values
+    ) public {
+        require(
+            sensorIds.length == dataTypes.length &&
+                dataTypes.length == values.length,
+            "Input array lengths mismatch"
+        );
+
+        uint256 currentTime = block.timestamp;
+
+        for (uint256 i = 0; i < sensorIds.length; i++) {
+            require(bytes(sensorIds[i]).length > 0, "Sensor ID empty");
+            require(bytes(dataTypes[i]).length > 0, "Data type empty");
+
+            records.push(
+                DataRecord({
+                    sensorId: sensorIds[i],
+                    dataType: dataTypes[i],
+                    value: values[i],
+                    timestamp: currentTime
+                })
+            );
+
+            emit DataStored(sensorIds[i], dataTypes[i], values[i], currentTime);
+        }
     }
 }
