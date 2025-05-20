@@ -1,12 +1,16 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contractAddress = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
+  const contractAddress = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"; // manually paste the contract address deployed
   const IoTDataStorage = await hre.ethers.getContractAt("IoTDataStorage", contractAddress);
 
   // Store example data (optional)
- // const tx = await IoTDataStorage.storeData("SENSOR_Temperature_°C", "Temperature (°C)", 7);
-  const tx = await IoTDataStorage.storeData("SENSOR_Conductivity_µS_cm", "Conductivity (µS/cm)", 198);
+  // use the extracting_sample_data for the format based on IoTDataStorage.sol validation
+  // 1. const tx = await IoTDataStorage.storeData("SENSOR_Temperature_°C", "Temperature (°C)", 7); // take note of the format as the input is validated
+  // 2. const tx = await IoTDataStorage.storeData("SENSOR_Conductivity_µS_cm", "Conductivity (µS/cm)", 198); // take note of the format as the input is validated
+  // 3. const tx = await IoTDataStorage.storeData("SENSOR_Turbidity_NTU", "Turbidity (NTU)", 0); // take note of the format as the input is validated
+  // 4. const tx = await IoTDataStorage.storeData("SENSOR_ClO2_mg_L", "ClO2 (mg/L)", 0); // take note of the format as the input is validated
+  const tx = await IoTDataStorage.storeData("SENSOR_pH", "pH", 8); // take note of the format as the input is validated
   await tx.wait();
   console.log("📦 Data stored!");
 
@@ -30,3 +34,4 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
