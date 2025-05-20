@@ -132,6 +132,19 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Hardhat specific
+artifacts/
+cache/
+coverage/
+typechain/
+typechain-types/
+ignition/
+
+# Optional: VSCode and OS-specific files
+.vscode/
+.DS_Store
+*.log
+
 ### Node Patch ###
 # Serverless Webpack directories
 .webpack/
@@ -400,19 +413,6 @@ pyrightconfig.json
 # Ignore all local history of files
 .history
 .ionide
-
-# Hardhat specific
-artifacts/
-cache/
-coverage/
-typechain/
-typechain-types/
-ignition/
-
-# Optional: VSCode and OS-specific files
-.vscode/
-.DS_Store
-*.log
 
 # Hardhat Deploy plugin
 deployments/
