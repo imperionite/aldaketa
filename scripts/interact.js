@@ -1,7 +1,8 @@
+require("dotenv").config();
 const hre = require("hardhat");
 
 async function main() {
-  const contractAddress = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"; // manually paste the contract address deployed
+  const contractAddress = process.env.CONTRACT_ADDRESS; // manually paste the contract address deployed
   const IoTDataStorage = await hre.ethers.getContractAt("IoTDataStorage", contractAddress);
 
   // Store example data (optional)
