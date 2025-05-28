@@ -70,7 +70,19 @@ contract IoTDataStorage {
         return records;
     }
 
-    // function to reduce gas by storing multiple sensor readings in one call; Minimize on-chain cost by batching data
+    /* ##################################
+    
+    function storeBatchData() is to reduce gas by storing multiple sensor readings in one call; Minimize on-chain cost by batching data
+    This implementation though ealistic, is only applicable for prototyping and automatic sensor push
+    On Ethereum Mainnet:
+    Storing 256 bits (32 bytes) costs roughly 20,000 gas
+    1 gas ~ 20–100 gwei → $0.01 to $0.50+ per entry
+    The batch storeBatchData() with 5 sensors = ~100,000+ gas
+    → Not sustainable at scale
+
+    It is also Likely handle the synthetic dataset implemeted more efficiently.
+    #######################################
+    */
     function storeBatchData(
         string[] memory sensorIds,
         string[] memory dataTypes,
