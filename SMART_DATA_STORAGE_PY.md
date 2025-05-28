@@ -6,14 +6,19 @@ Documentation for Homework: Smart Contract Data Storage (Python/Web3.py Implemet
 
 ```sh
 # 1. Install Ganache globally (yarn) and run on the terminal
-ganache --deterministic # obtain the RPC ganache URL, one available acct and one private key, put it in .env
-# 2. Run deploy.py to compile and deploy the Solidity smart contract with the Python script; contract_abi.json generated
-python scripts/deploy.py
-# 3. Connect to the deployed contract, store a few data points from your synthetic dataset CSV and optionally retrieve and display stored records
-python scripts/interact.py # This will loop 5 environmental parameters in one row and sampled only the first 10 rows from the synthetic dataset
-# Retrieve all recorded data points from the CSV
-python scripts/retrieve_records.py
+# Obtain the RPC ganache URL (e.g. 127.0.0.1:8545), one available acct. (out of 10 given)and one private key (out of 10 given), put it in .env
+# Account address must match the field # of private key
+# CONTRACT_ADDRESS env. variable (generated automatically in .env file) anf contract_abi.json will automatically generated.
+# 2. Place your solidity smart contract in contracts folder; other folder in the structure belongs to to Hardhat Nodejs implementation
+$ ganache --deterministic 
+# 3. Run deploy.py to compile and deploy the Solidity smart contract with the Python script; contract_abi.json generated
+$ python scripts/deploy.py
+# 4. Connect to the deployed contract, store a few data points from your synthetic dataset CSV and optionally retrieve and display stored records
+# iot_data_log.txt will be generated
+$ python scripts/interact.py # This will loop 5 environmental parameters in one row and sampled only the first 10 rows from the synthetic dataset
+# 5. Retrieve all recorded data points from the CSV
+$ python scripts/retrieve_records.py
 # clear all records
-python scripts/clear_records.py # too expensive
+$ python scripts/clear_records.py # too expensive
 
 ```
