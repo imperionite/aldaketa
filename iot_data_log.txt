@@ -1,0 +1,495 @@
+✅ TX bf328a1bc0f558614a1220cc0916feceef5bd767275739a957f026881f6d037c | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-18 01:26:00
+✅ TX 3ecf640715291d792ad26002b98fa7092c50088901ba8c4ac4c64ed25d0b7175 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-18 01:26:00
+✅ TX 3ea48f568933ea34eedda97946f5999c72bbb006f65597c57d486cf9917f7f5f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-18 01:26:00
+✅ TX bd21e5a78865b5f7a912a80450fde510a674e5e32f7eeac3968e415263f9907c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-09-18 01:26:00
+✅ TX ab0ea0939d5abdcacb7852c4c21bff22c2398728d553b316f342402ba8e481e7 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-18 01:26:00
+✅ TX 0be5ead76c88013fe4370650c2d7a385688250d5f81f7b6c40d4a2e88567e375 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-25 10:25:00
+✅ TX 36cafbbe952e24ae3939a38363d14ded6f20c9ea2f9a673b7b75229e5123de97 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-25 10:25:00
+✅ TX 6ee599373018b42c334dbeb861068bf5a0a9829362a983dffc10b5532a260d72 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-25 10:25:00
+✅ TX fcf93a14719f31d80255f264e6533e93dd6a1e6e2d55e0f19304e3572e9829e5 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 223 | Timestamp: 2016-12-25 10:25:00
+✅ TX c74f7182d9d078027950f5029d402048a176411d594290e280a12757806aa57a | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-25 10:25:00
+✅ TX e6f6d0544da114ca5cb73516c0d05b0d5699203bcdadbba9b127293571d6195d | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-23 22:45:00
+✅ TX 27b1fd8518bbe4c0efe8a58cd44d30defbb6c873a4eb44ca276410ea85cd69f7 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-23 22:45:00
+✅ TX d92760ea9f02ca630cfe6b49046ce65c58affad75311540fdd2a03bab25d07f1 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-23 22:45:00
+✅ TX 6b9a8b235bb6c95e50c5694fbc0d67821cd94f35ee216413f41fc7cc51248fe5 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-11-23 22:45:00
+✅ TX a49f434ea10f939a1afba9ee1da10da05151f5c36a579c76f7262aed98998574 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-07 20:41:00
+✅ TX 4a8ecb6baf5fea527c1fad9a64e32c771295d1005a05bb4331c1808da272b4b1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-07 20:41:00
+✅ TX 1f94385b54641571c928b7a64e45282e7260c5708e557e11b526db32effed947 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-07 20:41:00
+✅ TX 8de253c033f09fb3c9b73ddbcea252a93620434eaa84beed52be9fec055f0020 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-11-07 20:41:00
+✅ TX dbeeb7b47ad65988c53a042eec5343ec34c6a0166ea7fe84f5b16f0f232fb0d4 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-30 19:07:00
+✅ TX 55a4067c1b7e2ec7e7faf2879222f60ecbac42551aa4495a86c950f450df546c | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-30 19:07:00
+✅ TX 4718c9a5372a6a2c9c4be11ea9dab5737e078af165f2afa63be8d96aecfbd120 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-30 19:07:00
+✅ TX ab2762faac72ff079f59363861c985c93c599b458edff279e130faac31b099cd | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2017-01-30 19:07:00
+✅ TX 95399303dfa045db96c1ed1e480f9c3a05579b0153a6f03a279ea2ed37632f06 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-30 19:07:00
+✅ TX 309d09ab877b2bf40e682fd3774f7bac0fd3f92605615475955ea78680780279 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-09 16:52:00
+✅ TX b0765cedf7411b05d662be47d60a716e0572a67dc74bf980502200d854a4309b | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-08-09 16:52:00
+✅ TX 7844f2998a0422cf0a168b0e525b15d56684d77efd8cf9aba37a1761ceee2428 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-09 16:52:00
+✅ TX 4193ae97a1715e57f1d57d228331af1900b7717f14b0604270d358eec2a6772d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-08-09 16:52:00
+✅ TX d2493aa0c9345a76a692cdc6c650e4daca37a1489b430579c9efcce73b24fd8c | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-09 16:52:00
+✅ TX 6505ad6432f61bb65c56f252532649eb068c7b52efc48e3ca600674a25a937fc | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-22 18:11:00
+✅ TX 69ec848460ed79da275a202b906816df8353a966123bc2e3104cf2cb8f5f6348 | SENSOR_Temperature_°C | Temperature (°C) | Value: 11 | Timestamp: 2016-08-22 18:11:00
+✅ TX 5421a6acc2698b0c5ffc8bf08cac4e40a57c1c847deda444d966a0a66295fdd4 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-22 18:11:00
+✅ TX f95c3f54e862200b73438deae03000c0fec6b8c31da5d0d8d6bb287cd5bc191b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 218 | Timestamp: 2016-08-22 18:11:00
+✅ TX 34070836b97b18979126e7a19f09588d51568e89ce2c29a292732950e64c0277 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-22 18:11:00
+✅ TX 3af8deedd0155c524f8695543e2cd5d527a111f3efe61ac0043aa038ffb921d1 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-07 13:48:00
+✅ TX 94f3a7b90fc006708a969abcb39a30774172539a4ce31e3a8e9e469af97866f1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-12-07 13:48:00
+✅ TX beee1af8c15265c94a8f2d5b9a9f411d2dd65a1c178ddec1be7d87fab8c5e648 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-07 13:48:00
+✅ TX 66f0d1679906da8fdb5ec8eea36512cfbcb4d06f114b28ce0a5a7dc1c13a6b28 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-12-07 13:48:00
+✅ TX 146ef6f1d05cd7a23fc9c0e368e66cee53abca42521e011f96326e4e85ce2644 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-07 13:48:00
+✅ TX 95720567743a74c1e4e97eb731d16670bccb488e3baece30cfb682ae8dd052f9 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-24 17:42:00
+✅ TX 1ab6e34bdb2ca420e8510ccb4abcfdb58537893cd14ef35be034820be5f73092 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-24 17:42:00
+✅ TX 459f740d424453b6c1a592e4ac7394b82c95ee10e135a848e8eff10a6525314c | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-24 17:42:00
+✅ TX 7cfc31ed01aacdb6105bebc71aa6aea1434b9b14463ed7d9fc4f6c298b1d8b07 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2017-01-24 17:42:00
+✅ TX 6004afbc4f3267a0cfe740dc0197153186d99ceab34b4bafdf56825bb7ed96e9 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-26 00:45:00
+✅ TX e2ae757f9689c34e27de5bbe5242abece851c85f43893761d5bcfde5285d42d5 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-10-26 00:45:00
+✅ TX 32c45861812214db4957a761fd55b8570528393c7a71f6f68289bc901bb0cd92 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-26 00:45:00
+✅ TX 5e3b7643ac4fc1f17c3183d47f1b98c4b2ee22a8495808198daf4f7a4a2bd20d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-10-26 00:45:00
+✅ TX 2eaf9445e999f6af0fe4f29b700b81c404a553db1cff570066d1193bb11aee66 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-26 00:45:00
+✅ TX 2980eae2b415933b3dfaa85b59a68f30cd12cd5297b761de8c28e1d4c5fcd0da | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-24 13:49:00
+✅ TX 8c1012af261b31488db4a5e62d45440a4591d76adbc14a3ccd86288107188ccb | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-24 13:49:00
+✅ TX 49e803f2ad1a809868e24bedc43313cfec7d18bc42fca26891b16a95f225bbfc | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-24 13:49:00
+✅ TX e654bf3ac8f95924da7d60bcd418f0564e6bf1957273d99f354d572feef67e1f | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-09-24 13:49:00
+✅ TX 308603dc8f0f63c5fd611141ff4bee624bc528d8d46a11bf96900adb12152b08 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-03 01:42:00
+✅ TX 1f126a7390ec017f907e7b69138a8109a644d9540e8b98401bc313b7cd72e89d | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-03 01:42:00
+✅ TX d929232fdcf2c17024faf495cfdf22c695cea496369198144ba2f20af87e5af7 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-03 01:42:00
+✅ TX 582b49b8f71c549b85404b555f48839096f90240b8cd6647c25552bcaab5c980 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2017-01-03 01:42:00
+✅ TX a85322018162d04d847adbde796c511b9c4273a88df77eb5850400e88f87fb73 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-03 01:42:00
+✅ TX 298f0df8af80ebe716c2d63b410ebcbbb6d58e7cda9774aac705c609b9810269 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-13 14:02:00
+✅ TX ec94a3086c06a7f9dd5f56c4a984d8532f841ea30062cc054976de75a6b40126 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-13 14:02:00
+✅ TX 9b8499e62c75f698b814ff85d141e8bc78a2e17791ecd27821f60881ca6dbf9c | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-13 14:02:00
+✅ TX ead4e0c57676d773d808ff1c3510ba2e31a27ec923df7625e9d6b39a7f8bbe22 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 203 | Timestamp: 2016-09-13 14:02:00
+✅ TX f19fbc3c2020329dd8d92f00413495114095bb0b4bb14400be676aab171a2377 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-12 03:30:00
+✅ TX 0e489e240dc9ca24c4023d984394c43db97869d78a612c2eb00c2754a4ead41e | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-10-12 03:30:00
+✅ TX 34c69ea4386088b3241eff558aa725044714acf320b12debbc3d75b2d315311e | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-12 03:30:00
+✅ TX f72fc65f586972603166ab3c574c16295006426b1ac755e6273060c69f2b1a52 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-10-12 03:30:00
+✅ TX 35b5ff56fa6b546d3a631542c87c23ae2358696f7e463203224b6a9d9cb9cee3 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-22 12:00:00
+✅ TX 13c599444446b9cb2162dcc29c62e9789b91084e4b19bfe6101f1db1c6d08111 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2017-01-22 12:00:00
+✅ TX 745e49c7d92fd1f4ff9c7f518c0dd31b217679115e74f01cb0e19e16113c326f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-22 12:00:00
+✅ TX 606f30575a69ff7bb4b1b808d8b61ab5c7f29dd27f80b66d8b9214be37b295d0 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2017-01-22 12:00:00
+✅ TX c04d17f6454da6f30d2cbecb6b998231f9bb1054669cc05b74dba5cdc530558b | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-15 15:24:00
+✅ TX 9de495b8fc07849c7214607647aee82b03ca8e71ca72cf37b1d0dcf064fb40a2 | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-10-15 15:24:00
+✅ TX 9058dee1b65b856365f07cb0fc0eaf1790ce39680091258a5f28784a581401d9 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-15 15:24:00
+✅ TX aa9de98f17aa267ea0320a82ed2eee8226bcd6ce8b524574119f725446683ac6 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-10-15 15:24:00
+✅ TX 955ab62abd0584d725f6a7bc08751664d1e6f6e3efed8f48812f6ce6d9345d8a | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-15 15:24:00
+✅ TX f8567a977917323188ba12b0f8b822dd934a320ea8d70dda112f9e9d0b2e49c0 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-06 07:55:00
+✅ TX 2ec2b97dd8b3def77a94eb5f8194db76d814220a7c69994bc2d1c1b79e2b213e | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-06 07:55:00
+✅ TX 97ec27b8a8a7c9f4ea6501588c89ad8437b14723e66dbe60b5a4813237749b02 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-06 07:55:00
+✅ TX cad8818414c267bb9ea2199cd8fc6e7ad31678f2994f2a341a990894aab6ed40 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 216 | Timestamp: 2016-10-06 07:55:00
+✅ TX 9e5d1aa8bc1453401ea0eef6359b29c217cd43436230ecd3cd32b77e5ae8b610 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-06 07:55:00
+✅ TX 0880bd525f71d24d252349a75cf27ce469926ef7303490d4a22006f5e5deaddd | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-07 12:40:00
+✅ TX 8b649e009c1cc39903d5d5bfaf9ea6af2e5bd023c3e01042ef795ece0ad1b4cf | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-07 12:40:00
+✅ TX dffabb725eebd0cab243bc1a9ea1142e2405234cf8d55a09b92a9acb50165ba1 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-07 12:40:00
+✅ TX 798659bc253d5fafd5041056b5022d2f001ed7ded9f0f1848a1b87999971610c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 216 | Timestamp: 2016-08-07 12:40:00
+✅ TX 1956dd721e6b26a8b236939bf4a5c7f0d7fa7e95f869961d3debca17afc1b14f | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-25 23:34:00
+✅ TX 075d54d5bf22b9114e222bf98fa8d9b897f491f7d426197feaa03bcdba4d9398 | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-08-25 23:34:00
+✅ TX e1750666336025c34c71c9853adf78a5101f68f08c3e3c724664715a404e19d8 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-25 23:34:00
+✅ TX 7f3a54cb475a33e9a30df08849df54f4eb78be644190cf53c0eaa5ea37381f2f | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-08-25 23:34:00
+✅ TX ddbbb6e78e0a2a7b664be690b6f4bcc530f2505674247b75c3cf8653a75bcf50 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-25 23:34:00
+✅ TX 2a298e7460cc8de9ae8bc019e1ef56fceaf31bbc8927c394cf080bb037a93863 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-26 13:27:00
+✅ TX bd41636736fd928fa4c368bb3d7c344f50c69a6cbe955cfad7d1f7512a6083cb | SENSOR_Temperature_°C | Temperature (°C) | Value: 10 | Timestamp: 2016-08-26 13:27:00
+✅ TX b132d208d1487a0cef77f0f7b0d63fdb5de677b5a1a429a693828fdef99a37f4 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-26 13:27:00
+✅ TX d146372cac5e9b08d2255780e7e2d0409420bdf7198687cfa8c0f56da228f636 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-08-26 13:27:00
+✅ TX f8ebc8a4382b5530867748129aae4439ee3c113504bbb5f42f9eb4dc5d9f3a67 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-26 13:27:00
+✅ TX 1d16f65e5571b8d42cc214d284cd28b635bb39e7ff1f54647a21877e549cd87a | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-06 12:31:00
+✅ TX 0e2165920955e45f95b51e73cb3dc93c233fac8c9cea0196d085277cb44537fd | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-08-06 12:31:00
+✅ TX b75b63f1c036db836b1f8d564285284cbdd2a63a2fdeae5d8ccf6b11c4b16591 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-06 12:31:00
+✅ TX dcb03d924787f40e86bd018f931dec7d5da6f05537ce6e7547317846dc879037 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-08-06 12:31:00
+✅ TX eb7a2334a61bb2bdba339174dedaf003786ee699b4f1ccb9b42a0f657a4f29ab | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-24 09:27:00
+✅ TX 539a423d8d7c53eb74da7af9dec21420d8513f393bd31abb763d37420772b648 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-11-24 09:27:00
+✅ TX ef7852c43112ea06bc830761d5ceab552179479aa693289f353abcb26283a4a6 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-24 09:27:00
+✅ TX f5d0ca90a42101b65c0d29e46f11bee4a8f97d13cf71d0ed07fda2c1b93453cc | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 218 | Timestamp: 2016-11-24 09:27:00
+✅ TX 225b539a009fa1f404e353b9fa07442af815dccc818b0342aa7fcaebc9d9abab | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-21 10:48:00
+✅ TX 3bcdaebb2fec6ea7d84f339c7fab4b3de5ab94cd713a7fe3c7bb72d06b586ce0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-08-21 10:48:00
+✅ TX 8fbd744f8dd27839e7b39e6b86e4d3457131c217aabef953a68dd6b59f8269e9 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-21 10:48:00
+✅ TX 732a35539545e9f126a3053e9043d722f0b389a0f925ecd3dfde715a2cc072a3 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-08-21 10:48:00
+✅ TX 9711dbfe4675d4a4bacb473d55c25e76fd8b19c83d5b9e14b174c39627af29dc | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-30 10:31:00
+✅ TX a5f85023d1335adf7a2768dfb25089da8811420fc7ef13e270d1a33981584463 | SENSOR_Temperature_°C | Temperature (°C) | Value: 10 | Timestamp: 2016-11-30 10:31:00
+✅ TX 6b79ca585b4001b2fee5d5143dfe47072113a495492c0774f6daba4f8e6f64da | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-30 10:31:00
+✅ TX f93550763a189125e896b049deb7d3ac7348e7e431ab3a2fbd2c9961697e406e | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 214 | Timestamp: 2016-11-30 10:31:00
+✅ TX 526773d748c1438bca10f1138ea4b58090c6c1109de45fbd004bf411213fc4a9 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-17 08:22:00
+✅ TX 91ad954a9e1fddb212080a8a679814d6cd8d3447a485a8cd6444b3b01709597e | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-09-17 08:22:00
+✅ TX 0c55bdfdc4e179fbc03186f52ac2750461ff476b5a09e036f2f84af117f444fd | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-17 08:22:00
+✅ TX f07b4efb5c8b9b06e29dad0e18e55a6306e52c607cc4551bdb705a829db3db1f | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-09-17 08:22:00
+✅ TX 00985e5af17432461678517efcfed2507b61264217995c11498fc35dedb9b788 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-17 08:22:00
+✅ TX e5690bbec80d78fc2a0f418a98a6cc4bc9cf6755eb5613badd4f32aecd1a2d9e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-14 20:26:00
+✅ TX 33c9479e9fff016c9988d98d38fa3a3faba73423339e7c35bff4a6ada47d4285 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-14 20:26:00
+✅ TX 4bbccc1769a81a2f7658ff97994ee390bdbfd802e4e009eeea1c5d8fc154313e | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-14 20:26:00
+✅ TX 8fe942368e2a4b3caf87d96fb31580b2d6ac2a9953d89dac6eedc2bb9dc194fa | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-12-14 20:26:00
+✅ TX 0c60fb815f16010575bddf4aab09774c2ed9f3a6373c0f146bb53b78869bed69 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-14 20:26:00
+✅ TX 002623fcb3d047aa14f28782c7178b3aac213819487e29443325179566c0527d | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-04 10:59:00
+✅ TX 72e706ec897e60944041b8a7620a91b3d2d46ff61203a463a13a196016af6002 | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-12-04 10:59:00
+✅ TX d97fe3fcbb1ef713aaff274ad706441d6b635f759da9d18ccb368a4d3b05cfc6 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-04 10:59:00
+✅ TX 18278c83e0f8524dc2028c1c6403948f1f51bd41b61d51dfad36ed779d27a6a7 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-12-04 10:59:00
+✅ TX c1193854123ade3357c81273a89e777684ed4c6e1e8fdd28ce0796419e3a85f6 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-04 10:59:00
+✅ TX 23a4409106a30e85f98cf9268d49c665f5a1d903adfd53c055559c097d369c41 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-17 14:15:00
+✅ TX 5e4723e484a9301c68e0ab4fcb7aab2786720338bbbcf4446d1aa83b5010e299 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-17 14:15:00
+✅ TX 48cb4b800a1e7adcd7b651cd0b70ebce8cd49fffab85a1395e5639256b1cd43d | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-17 14:15:00
+✅ TX 72c500c321ac112d7c4768d0547d8eb3e645fca305679d7399bce4e1c0eb56c6 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-10-17 14:15:00
+✅ TX 8215d4a1d7310198cb02802f6edd695fb202efadec4118682e202dc8a2a8bbea | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-17 14:15:00
+✅ TX 4ac72dc8d84fb769dbaf6918d599200b76671e84c4a3cc09ff68217a545f6203 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-23 20:22:00
+✅ TX 304d141eb1f3994836ffd31ec4ada73f193b8a8bb05a84a94c525755ce796778 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-23 20:22:00
+✅ TX eea832a02b9e9c05d057efb6fa3dff0e452c6cf46a66f09e929c138430fc5af0 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-23 20:22:00
+✅ TX 8080d5424a0b9ee76e08fc7b3077e0f3070e6a8880c5dc40114d897bb05f924b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-08-23 20:22:00
+✅ TX a279fbde0f1cb5b9ff4e7c3aa85e8bc1690317ebaf257c14c35dda3d81b31e8e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-20 00:37:00
+✅ TX 6081010e7a75ce01a15eb9d285e97b8bba20dd7c965065ee99abfafc48ca3928 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-20 00:37:00
+✅ TX 5d48aab6da160230090066acb7113a495c0a69680d54e7f771cd78e389891f99 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-20 00:37:00
+✅ TX 0109396a36225664d78f0a71e9f69fab81d406b5fb6369076cd5b083669e566a | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-09-20 00:37:00
+✅ TX 2cd854773794dde4378e151a6b3ff1181c1e35afc713ce70eb4ce9bafd29fd13 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-20 00:37:00
+✅ TX 88274c43fec1b70f50010ce215f17db5ff3435a958dd946ad9dc85c97d93f783 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-11 04:12:00
+✅ TX b29cc79478bf014b28d1ae61e5beea6dc4627e1d4f2da6dbb06695f8c3af044a | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-12-11 04:12:00
+✅ TX fa59232e1a07c158530814d2bf4836b21ad85bdc79a15eac28a8c11a00928e6f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-11 04:12:00
+✅ TX 6fb860466fed6d98c1bfb1f518460b27a6cf412546b66ffa93b8f7d37fb57c2f | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-12-11 04:12:00
+✅ TX f7229c6022afe633ba8a9d1627b648679c7ed3b8716e97f113158a209b6c27ed | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-17 00:00:00
+✅ TX de204efdd4414dff35d319adf55386f29a1ddda3ed93775dbd1d6665474acc28 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-11-17 00:00:00
+✅ TX d4538311ecb0a2d8995ddaf07327351603957842d7d151c14ec81c427c2bfbca | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-17 00:00:00
+✅ TX c37c446978a679d646369f9bb4ba878aa4596d3b13f6e5a83728645da419d7cd | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-11-17 00:00:00
+✅ TX 4155c69258aa7a3b76697da9021a221c788e4436a5a4482647d1e1083fb21622 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-16 13:57:00
+✅ TX 4cafcf8872750c57b17b4969b4bc6e7269954b91b519bdc311e5591be9439dbf | SENSOR_Temperature_°C | Temperature (°C) | Value: 11 | Timestamp: 2016-09-16 13:57:00
+✅ TX 4835199ffae8d324512d9cf690808042f1e8384a074b0893c321ef2df4dbe917 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-16 13:57:00
+✅ TX e6b37d276c92d5aa7300c46e783d202ee25743e18b38da73493e2558e6a0ae60 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 203 | Timestamp: 2016-09-16 13:57:00
+✅ TX bdf589e39f06e17bb53a6a8774b614660799f8eb0039543d891f8121a209446a | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-16 13:57:00
+✅ TX df69b1593836e42e05f5c328866f5961fa9c2680b508e3689014df75982d8ae7 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-25 05:19:00
+✅ TX 218cbc8575e14c1fd2eb14339bd2b16e864fb632fe9991bb715ee620060c7d61 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-25 05:19:00
+✅ TX b034bfbb2928a98405cd64c93f65dba522f3f1112304bc7d4f0b0c695fd79542 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-25 05:19:00
+✅ TX 58bb381543acd85c67e19312ab86136b31b1b170a244b331d507431bd4a299b4 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2016-11-25 05:19:00
+✅ TX f788fc26d6901c3e8fea438e2729859b6595239e8b032f326e1d2953361b5d05 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-25 05:19:00
+✅ TX 8339780b7c86bb3d915a0e47fddf1568f9c3e011477cd900d39d7938d47cfe2e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-28 15:52:00
+✅ TX 496c5bc7a40163417e2fad4a0360e096ba327665a6a2921e037455a2e3ea005d | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-28 15:52:00
+✅ TX 5c1d5f6f9aa9368bac7885b8ff6aa2b3c255fc776ea51a5788fb70aa7162ba5b | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-28 15:52:00
+✅ TX 8a9b3f86350e2a4738cf6b7c39827f080dc74c0ac4d0930f4c84ae52412d20fb | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 214 | Timestamp: 2016-09-28 15:52:00
+✅ TX bb8b0e70e3b373fe04560380d6332118b0ac30da6dd6d27547b06d5787d3bbae | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-28 15:52:00
+✅ TX 0b7f4f221343d7c9e76049ecb6d0e1eebad6da1dedb028f0f4bca88362ee38e0 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-01 17:16:00
+✅ TX cdd7e7acf6c38430a5d4ebb7a727f019cf2fbedbfeb27d706b0a1953ceda307a | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-09-01 17:16:00
+✅ TX 179e585c1305da321d10f0b162e4909e3d1f32717ae22b427d9aa435cbe332ad | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-01 17:16:00
+✅ TX e55d94a2f49a4986408f2fd76789dd641e25864e1eef4014bcc75d976866e3bf | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 208 | Timestamp: 2016-09-01 17:16:00
+✅ TX cdab10078ea5efa86b6b79815877b1bcfe2e8e3bdf79eefc92a791a34af55d8e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-28 22:31:00
+✅ TX a26bc62d988f07eb9c5e3e4fd3e167ae22637ab8f97dbd1f0ddabb7496716e23 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-08-28 22:31:00
+✅ TX e4eff684670b0a96c2da7a437354d4eb489c4d28b5a2c2aff8a1422e258c4282 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-28 22:31:00
+✅ TX 631299fb2b4aed737f7cb01070ed55c0c32827c7794fbd8e3c564712f496a866 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-08-28 22:31:00
+✅ TX 02403f8f728d76f277007778fe2ab6d8aec3f6c6c65f8a827dd8443f8abb54d3 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-28 22:31:00
+✅ TX d5e9b9c1e8ba9dc381a3fdd1a6a3e5767c4664dbc990d68980cbf152346d1f37 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-25 02:57:00
+✅ TX c9dc81c0d9de1750d91110a095251074bd187f8881ea57b20acf86e9d7080c97 | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-10-25 02:57:00
+✅ TX 12bfc14a3497de781cc808febc0e54db3ab15e9e1d15ebc0b843d94f59630460 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-25 02:57:00
+✅ TX a552df712c8301ea5b5950e19ae1fe0330eee0d27c39d59829c13070bc5249ef | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-10-25 02:57:00
+✅ TX 85ef27814088cba92df384aa98708cb2a606c0cd6b5a2c5733c587bde2976872 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-25 02:57:00
+✅ TX 2b2da76600e6f0d20db9679b602c9088d1b6d9f1f80a001578d95cc0c2722dc1 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-21 20:17:00
+✅ TX 7c6811eab8a470589486db806f11a75ba51f77c0fc49abe74a2fd696872033cf | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-09-21 20:17:00
+✅ TX 1f3dbb70719936b4992c8856c34079dfe9b64fd128c3cc505487a21b831f1aaf | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-21 20:17:00
+✅ TX d8b3e453e4c6f8b67b9bce1ee25200a66784bfe90ccaf1ec72d8b04b5877a597 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-09-21 20:17:00
+✅ TX 1f7d99f9c4b0ac446f75e3a34ab29b2d146ed659142ef5bfbd7a0b56187089be | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-21 20:17:00
+✅ TX 196aad11e664d02fac263a9ba51cfa69ef351c65c0d9ecd9bdfec69c4d2587a3 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-09 04:34:00
+✅ TX 51aac9e28ad8fd8487eb832e4ff261c941d05b57c82f81b4e4afe274a3b9d6ef | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-09 04:34:00
+✅ TX da543631c680af736a436913b4a24d8fbfa6aefe95a65af865a5590cee7b86db | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-09 04:34:00
+✅ TX fe9c1163dbbe1b5094de332a5d68c836c8ab9514023d0030f361891cea53d4bc | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-11-09 04:34:00
+✅ TX 8ac42187b742d5663a208b1ea86b1179c8a4f0781fe05841dff173e763e16b69 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-09 04:34:00
+✅ TX 55607fc281df4ad3208d87411ad2081ba3d195523dbd439f29ffcf7ff92591ed | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-02 06:44:00
+✅ TX 8d2ba77dda50da25af46ab6223f89563095d98ba0b064f8c77f4cd1fa83bae70 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-02 06:44:00
+✅ TX 12bb26212d80e201c5c58653b3c983e970eaacc7cf6cb1d5195c8a487467e25d | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-02 06:44:00
+✅ TX 1d82d60289622b0cf66dc85df617cbe9ceefabeea0a2df33b55023d1b1445ede | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-09-02 06:44:00
+✅ TX 375d08c1d94c133ab298da710fe1578870a6f489644198329a5cb1a6ce8375c8 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-02 06:44:00
+✅ TX 7918b0648a868aa81a42104ee56233fc88b24501d53efa6a1a97e5f8e8e04742 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-29 02:25:00
+✅ TX fe1deca2ea72581f0d6010f7f633239b4790efbc851cd0a301b43e7a6413d44b | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-29 02:25:00
+✅ TX 494b43b74a52bb8c65e266920d8d0bec1aedaaaa9a3f597766c96f6cc8ddc720 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-29 02:25:00
+✅ TX 9f9b55b71b34dde5dbd34d3f674c7c31a6ebee99ddd01f8041002c8a9e10001d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2017-01-29 02:25:00
+✅ TX 9b50ba95d5f425bfe71fcab02e30d4d1fd40cd069b3a295b18d90e4fcfba4abc | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-29 02:25:00
+✅ TX ebf8ee2ce0ed335f617eb5bd7abef496c079db7ae0c4bf580f7fe30b6f8edeea | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-03 00:49:00
+✅ TX 55ff3821ce8f858f7bfbd6e12e488b7b4e752458df7392d6637c2f298034d514 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-03 00:49:00
+✅ TX cf5172e9431bc4fadebb375a741f90c0bb5c155c162bfff2053a193d1b1d5a5f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-03 00:49:00
+✅ TX 22ed89a8349a4627d1d27d2f5cdc8ac9fbd53ccba32ac530503441b165896616 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-12-03 00:49:00
+✅ TX 9a3d99af8fb12da133101da7f64e22f7d4c524de552c713cb7112dc171f4ed78 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-26 16:16:00
+✅ TX 08e52cdcfc845368ff4eaa78f42ae30fecd05f31d989dfb8ea14d32ff6306e1f | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-11-26 16:16:00
+✅ TX 05ec69782e1df46420b6bd8d0e7ae97b4837c573c191be5a5e61e24edeefb949 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-26 16:16:00
+✅ TX 9e45edb3ee55075b38a9819a8d9c863186e7803730b82dad509cc4915b0bf9cd | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-11-26 16:16:00
+✅ TX 0faddaa6817c3425a38eee356e99c15cc4c35d6841654d76dd9d3350afcd8552 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-26 16:16:00
+✅ TX 157dbb0a6fdeb966c72cd4af0b6526c90e2d3c443b7f64dd11dbe7361335bbd0 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-19 21:47:00
+✅ TX a0b2eafa5255c097be802e84106212cd88d84776d08fbbabf9b486fa8416f89e | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-09-19 21:47:00
+✅ TX fc164d8476db5528cba1c3c635ee9a1dfa54968c544b57ed629cf91deea0fa13 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-19 21:47:00
+✅ TX f1fd7f98a926d30b405f9c5611c4528d80227bb23a8caddd021219dbff212d49 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-09-19 21:47:00
+✅ TX e1ca10b272b57c0c9010780f6f1bbe17d9c77aa7e0149b873ec8d3cca8dbfa24 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-11 02:25:00
+✅ TX 79ece57b3a212e79b93805ab7120c89fa6f212cbe50ae382d025d7cacb41606b | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-11 02:25:00
+✅ TX c34cb242d302033da8735e6b3c8a5d3207e1ef07c9c00f7efe1ba4c732f2ccf9 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-11 02:25:00
+✅ TX 10fae5285fb63b71be4775a3826226dddd7820599dd80837a5453023bbade579 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2017-01-11 02:25:00
+✅ TX 80dd2808cf4f4e367c7522d20242301a9a358a0db979b739f40e0566a86af655 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-14 01:33:00
+✅ TX 7af5f3347576fbaa56f8298544bcab061d4a3c44245bdea5cb8de43974aee027 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-09-14 01:33:00
+✅ TX 367c1271a3e0a6648e5c60ba0dd55b45286fe03b64bd2af827521ab062fc45d2 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-14 01:33:00
+✅ TX f74096596e80c97832d3bcb531e5009b32f6e5118ac3b66b4b5adf586bf35a5a | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-09-14 01:33:00
+✅ TX 9931e8d6b39edae79e4e6f259768ea148e457db135d9d31f0443e3904dab855c | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-18 09:21:00
+✅ TX d174f3df5b0f6bcb9c5b7e9efc543b417bd8fef0a1bc9bb1c75e2e178a5a29f8 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-18 09:21:00
+✅ TX 4cd69d9cf564621ddc5d0fc7a1be5178355a179a864ce321fbe2f29d2ce6f7d5 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-18 09:21:00
+✅ TX 0b88cbad3e90884ac67087a7b7114075ad408fb05214a37adaae32de8bd8bd17 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 208 | Timestamp: 2016-10-18 09:21:00
+✅ TX 454c72501fb75504adaf8387e8043e5e97f1b464e5aa47299033781bc8c3d486 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-20 23:02:00
+✅ TX 8fecb28660dca34bc71bd94f60abcfaabf998cadd53b7c00c1842dd8d7b90120 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-12-20 23:02:00
+✅ TX 7e3dd8fce5e8878e6833544c17fcc11d90c2678fabfbfe7307320c5c28d4f9a4 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-20 23:02:00
+✅ TX ddb863884d8c71c1e29cd71bee9d618ceae3ec82ac69ac4fc438604cf8386faa | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-12-20 23:02:00
+✅ TX 86587f7f8958e5c58f7eec58e95a46b3857ee98536a6c24047f7d7b58669cf4f | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-20 13:48:00
+✅ TX c060e2d8c50c00ec0b7f367a6a3f84dc6446bd2225facd40c051384fab45d3b0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-20 13:48:00
+✅ TX 11fc4664dfb4bec413003ec71c01d8bb68501f40f55257e2657f3e172bde0d63 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-20 13:48:00
+✅ TX 1c5f5419bf4e52f78a63f362ae095b11ff14ceb451f4fec7ad4fb11c2fdd4153 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-12-20 13:48:00
+✅ TX 2613f6e5c8f95c2d3bbef6e926dc1b9d32aa9f1a9ee9e1150a5264ec40dba60b | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-20 13:48:00
+✅ TX 430dea3d6ff5d0d92c6974bc1e7c027322eec55a2989f8a145a9d6bfc9b9c340 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-15 07:58:00
+✅ TX 6913a2d6cafd7691758b74c0311c48b62bff90cfec75d4b85b407fcbe263cde0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-08-15 07:58:00
+✅ TX 56291c2ce52b5b8c08967aa8f210bc667616fffaf902148b6eb3ba9ef4eb0b4e | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-15 07:58:00
+✅ TX 694e7793bc8a081d79ba7ec6a8267a8dd31a5a1c7d1efa02063888a1e6541590 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 214 | Timestamp: 2016-08-15 07:58:00
+✅ TX 0ef4d13fb255d6b00c9f2bd50cf1a45fe8eb1ba72187efac078b20084b886aae | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-17 23:58:00
+✅ TX a899e323b18ccbf4adaa1daf14e963763fb07b4fd1a20a498c94d33042ebd797 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-17 23:58:00
+✅ TX 32f062436d22c7e198380e20cefe51b0768aa094966d3a1da4efb0536cc45125 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-17 23:58:00
+✅ TX 26c2f887b26f8f8d75bf71bfbafff01b908b6c82409c526f0d03c13d49dbe5f5 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-11-17 23:58:00
+✅ TX ff3142111c3d78fb2208475a629769feed6ee15ead88afef5c47b9e051b9acbb | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-17 23:58:00
+✅ TX ef1233696e583f1d22c5f9e3ebddd0033b75d85213a933bd04feaf5eff7efd21 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-11 22:28:00
+✅ TX 7a3190f86e15713f0abc53642eb1418cc086fa6e5b57595fcec4e3a0279606b0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 10 | Timestamp: 2016-11-11 22:28:00
+✅ TX 0ac84ab0d04ccb424766ef6b33e585c01fbc6ac8c92dcb61c72ca8c175523bf8 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-11 22:28:00
+✅ TX cf9b4623240a1016445c25aa420663b17a4029bc0efe69c7cdc0c103b9872b47 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-11-11 22:28:00
+✅ TX ed635ae9342050a46c69afcc239deae21e9fec9a361c9f9b0976e166d3277f3c | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-28 12:24:00
+✅ TX 21fbd799e6468d467ff663c4ef8ddd5e3e201623f330d764596c490f6dc2bda1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-28 12:24:00
+✅ TX c1f3e47746c45af99fbcbf4cf5b280cc8f6ac42546a4465b6ebe9c86cf42037d | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-28 12:24:00
+✅ TX a15f0b2eea66c5bc6242f52f4f82cd7b1008067921ae99c60842322365befe9b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2016-10-28 12:24:00
+✅ TX dd2832010b8223daea09ca01b01f0d9af469f81fdaf196d1008fd7a1dd09507a | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-15 01:14:00
+✅ TX 9516749fdc27001c7520b614185d75f9d78dc887ec39bdba1af367b8747691f2 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-09-15 01:14:00
+✅ TX c63ebb75d24089771a3834f11d31cf839c2b2a1a67a18d492aaa2ea9c34f3a98 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-15 01:14:00
+✅ TX 6294e5288ea9f41ab9999431e2d420f84fb167feeb400ab43b17e9ee8f36bd46 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 218 | Timestamp: 2016-09-15 01:14:00
+✅ TX e8510e2863533adf2de66d0597c8fda89f4da546377efce5cc40f6dfaeec667d | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-15 01:14:00
+✅ TX a75845fbc227b90f216bd1d1e146be505722ef6b58353af74a0c55e4ac8724b6 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-13 23:37:00
+✅ TX 225beb999405a3c0151780bf887f76d867ac4e9acd39c876c2d44590e3b7a9ef | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-12-13 23:37:00
+✅ TX dd9bd718ef5664c8f727406b5bc0112aa9a8cf65d57ddbfe56f25f3407967d63 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-13 23:37:00
+✅ TX 2f2f3b967da8acd19498145f3c46647ac6a18551ddbfa0c7ea7e197cbfae2291 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-12-13 23:37:00
+✅ TX 7810493ca005e009e8bbcd3e076d941959372b22c4c1eb976914a5edfbd395e5 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-22 21:51:00
+✅ TX 454d6c6ed67460ba473f752fe737f364839f8ea5cb216a0f4186b71ff2745155 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-11-22 21:51:00
+✅ TX 7992fbc3a7b186a4ad1f9b06e33e868938dffa81dee7ddc926ce21223f657fba | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-22 21:51:00
+✅ TX 83a580879836a629d8154521222bfb8d1a92932ec16568801c5288273b020a57 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-11-22 21:51:00
+✅ TX cd56e1a11adc13d3573e5732bfd9754936f6caa7e6b844ffa83a6cd90005ca95 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-24 05:25:00
+✅ TX e8c48948ca2871d3bd2fbb737736fa0d01ef8aea46347d46b3d3268113f6fa80 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-10-24 05:25:00
+✅ TX 407a142126d9f6d5678f14db6ddebb54d003c313eb97bfbed66f6074cb803806 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-24 05:25:00
+✅ TX e2edca7960f9ac2af9b5e3d3312490562167bcdd75d40143c0b3b85814b0c581 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2016-10-24 05:25:00
+✅ TX cfe606b90de38d37d13f35c8b59def4ccdabfe1af70463728a2f3b14f7cdecfb | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-04 13:11:00
+✅ TX 1b2178ccd3f82b489ea6dc18cf2d1aa7612573e8ffaae624393035a2cc4eefec | SENSOR_Temperature_°C | Temperature (°C) | Value: 5 | Timestamp: 2017-01-04 13:11:00
+✅ TX 79adc8c0632b961c9b85e85f40259edde5acaf4db66cb5d151740dd8a50be559 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-04 13:11:00
+✅ TX 64906ef614aa3564102d2c24e58465cf0384d408700c5d93864ac115c4c9ad81 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 219 | Timestamp: 2017-01-04 13:11:00
+✅ TX d2689b1a94446a44ecfa6e60b2a596bcd33724274fac539c32470d35424c862f | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-06 20:27:00
+✅ TX e12606e126a981f260cc5c6a903a302dd38c4e3ebcca6358db91cf9892979633 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-12-06 20:27:00
+✅ TX 3263a0293c9283f605774ea97c75e1332b5e9d4342be91a089478e4c74ec6387 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-06 20:27:00
+✅ TX cc1db8355fb2f6ebdaae28d1b27c71b6326aae9543e0dda0dd79cc174a813118 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-12-06 20:27:00
+✅ TX 9195401821e10abe24e6c20a86ee616a3c926f4ef8db6e1fbc009474dacb8184 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-03 08:15:00
+✅ TX 5ea5f5e4d0919e89ef373e9d4370ec626182edc1c408b78a222ddb116f374592 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-03 08:15:00
+✅ TX d224b40e69e375dc3535c28312412959c730fb435fe80d6068a07ee9f37792b0 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-03 08:15:00
+✅ TX 7c0df43bfba855ba715cb4e0c6c5b8cf42c97fb6b19ad8dd798defa74e45080e | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 216 | Timestamp: 2016-10-03 08:15:00
+✅ TX 54b185f840dc02d6d920798067d790f1c49d263c0cdc0dd8901df2b0f236f1cf | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-26 10:52:00
+✅ TX bd0daab27f0659398ca964cc2beee4e5574d8e839b87c9d0eed91bf2cc1a273e | SENSOR_Temperature_°C | Temperature (°C) | Value: 5 | Timestamp: 2016-12-26 10:52:00
+✅ TX 7a47004766c96ad47cf4dfed6a06f46e5760136a3289355af07c8a9e1eee5427 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-26 10:52:00
+✅ TX 018fdacee53372b69d828ebdb70453db158981d309acc40e9b38471a5ea14278 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-12-26 10:52:00
+✅ TX 227e7d24986e7eb688262e13ad1661ff1b2d102e57d0e172b290d4b48d678599 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-26 10:52:00
+✅ TX 096c9a65b72a64f3d0e2e6d58fb22ce49c28e5725b7401c90530b4812b08cff5 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-01 06:22:00
+✅ TX 88240bf8a56ee860cabb042c68aef41a9a58f3b39854ffb2b166f2bbcc24aae2 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-11-01 06:22:00
+✅ TX ffee6a8a516dac255ebd8cf2b0deaeacc24ce72de2324c1f101ed95dd1bd3a02 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-01 06:22:00
+✅ TX 9941d770b46621b6fbbeede6f2a8a6ce40e294fdc216f4f69c3fa62bb0c1fd43 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2016-11-01 06:22:00
+✅ TX df8e0274c611848fa08428c951559c6904236f1a03ee546881b2d7985f001900 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-01 06:22:00
+✅ TX 71ad651e7241e81cf806255deb9a083e9b5b446dae79b39eae48213dc57378cf | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-01 21:41:00
+✅ TX b483cb4652808a7fbf405fa9a860a325ef58efcb24b8e601b4b29394244c42e8 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-01 21:41:00
+✅ TX 4205db864d68f2037507effb953e45b87cbd6705e5865aa5a3d3024fbf5705db | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-01 21:41:00
+✅ TX fd3d3ef6c636545f55b07e97490d240a61129ab50171372defa3065352c174d7 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 216 | Timestamp: 2016-10-01 21:41:00
+✅ TX c69fb600516cfa7a1434d14045efd2c43366c5e21d4bb0d765fb3d2b652bebcf | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-01 21:41:00
+✅ TX 59684561803dec5293fc87a95422f4f6488f6e7374ffd881b2e97989c3232e33 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-20 09:47:00
+✅ TX 748591e8717e38e8cff22fa4e62eb1c482144d46616f03d52a508e57e610cb38 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-20 09:47:00
+✅ TX db6951c34a7f5e9d8db5ee42c102f32edfff23cb59b5a6d42fc17681a156dbc1 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-20 09:47:00
+✅ TX e676c4202afb920437715df7b2eca0b5bd500bed21319c13d3e196c2bc8431cb | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-12-20 09:47:00
+✅ TX 6549450c92f7d73360736174201bad91673f8c196c334dcf20eb4b08417e4e1e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-17 12:54:00
+✅ TX 079fcd9aad6e2e44df2e338aa56129dd75ce37d706e0e539abe330ca6246d99d | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-08-17 12:54:00
+✅ TX 3162bd5f7b5c5e73d0fe384a79984a6ede9993efc9b2110f0432aa515bacf9ca | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-17 12:54:00
+✅ TX 93865aeaa0e385440603ed264836f63d0b19fefab622b1f5e129456941e5c8dc | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-08-17 12:54:00
+✅ TX e09a8a8966ac9290da13a065d442b120f150159e47d18d6b90495f3bded27e65 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-17 12:54:00
+✅ TX 777d322d3bb18080730bbf777019e5bcc51a2ed053dbfe4cacf2861e3043d250 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-09 03:13:00
+✅ TX 830e7abbd4d54ff0c2c44b058ae42d344f4a36c58f68221baa81666993b7ad6f | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-11-09 03:13:00
+✅ TX f7d21720ccc3b7cf1648ac198c6bda3106f657e66fd10f6cc2c21468e8eb5684 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-09 03:13:00
+✅ TX 141dc5d85cdb699263c23e033eca6ae32b60d96aa640f4b9a017c2856350ab22 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-11-09 03:13:00
+✅ TX 421f60da2716e9c84a75509e55abb7cb14637ecc29d125ec98731b6bdc397515 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-03 04:42:00
+✅ TX a504c2519a23f0f366f666f1f2df06833ed6b1926744c1a2b85d67f95d4154a1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-03 04:42:00
+✅ TX 2f34e5697175d28970c7f03945f3ef77b70a16b39626145d7c977f36a1aa4514 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-03 04:42:00
+✅ TX 0341ce884adca13f3427fc417e02f1bd3b821925567f5ad4bc11ab903810df5d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-10-03 04:42:00
+✅ TX 0f952721135718ef570e8d69ac9ebd9acb2ccb0bd1361d301d92175a835331af | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-30 03:53:00
+✅ TX b101b960c4d9581a3e9c268a92dae16c9660ff89ce4fc9400efe82d2ac74ce75 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-30 03:53:00
+✅ TX f357617075a4166caefd6e19dbd0a0b68a7d4b1bdedbd7ff63fef962ece5c26b | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-30 03:53:00
+✅ TX 54726d65210542aee687a8fb7cc502f216da5724e528732247bbf26bf5e7a251 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-08-30 03:53:00
+✅ TX a100e428b83cebb2160dae1cbb19d7c889fece164de2b2879323ba522618b6ca | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-14 09:32:00
+✅ TX 4553f98330ee1f8f484f6217d0da24e4c04ba6616325f8148c9351ab8c021b2a | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2017-01-14 09:32:00
+✅ TX 0c1a1965eef20d23ca2a9114751bacb31fc86896748bbcd328606a5037f365fe | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-14 09:32:00
+✅ TX 158d9779754d25668ca37626e9d1cbcfd0bc2f81114e6bdb3f38496a56970b55 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2017-01-14 09:32:00
+✅ TX e46054502d69c95528dfaa59a2d856b1fc98fbd020bca7a10cc45b29fbe0e074 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-14 09:32:00
+✅ TX 9135ac91fd0d6ad69ee7975be3f46a3b2cf65e7026e9ed328763071c5a29f6b0 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-14 03:22:00
+✅ TX c1aa349533d5bd9adc53da3d073fcf625ab349d08f7ce1b24a0dd75404bbe84f | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-14 03:22:00
+✅ TX d7812ebc784937e69d9beed9fe584004e425727abc51d90e0331e9a319c46c88 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-14 03:22:00
+✅ TX 7a3113ab191a03632795216bb61eec2dc0c427cd5330f575a2992603956c229a | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-08-14 03:22:00
+✅ TX 2f2bb7b41c8cf59299895faa4d377db77201843dd22f9fea0bec4b62b3d8a899 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-11 08:36:00
+✅ TX 8cd711338c1bf413581c1a8e4644f87817018c56628c66b3a00262852c2836cd | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-11 08:36:00
+✅ TX 2f182395f3be7cee8150b52317d203d69b5d53457e0864b7fd1cf9cb59e73c92 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-11 08:36:00
+✅ TX 3677ed80b1828b4b04263807437ab551b4b52ab2e0221d809181396a3666aa08 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-10-11 08:36:00
+✅ TX 67e8dc4ed8250016437e161c4b71b0e03ff8c0af24a34609677bf72f56b88eb8 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-11 08:36:00
+✅ TX e8726fa1e02c0d5d82919557860d2605e00387ffe0a6c2a54ff91bb9660bb54e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-10 00:07:00
+✅ TX 2e11add3316b1ba78e91e058d9160d1deda4c61802779c0d9614dd3b5baa3b0e | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-08-10 00:07:00
+✅ TX 5f95c59ce07d1d47a35686f6d6fc7c7744c4faaa57dae1224a68f1aae537ef3b | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-10 00:07:00
+✅ TX c9fd1709238d658aaa3f09d00d2b3d5fc550b22472c89e43c318163f899b55c7 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-08-10 00:07:00
+✅ TX 7e8217502bfbbb16a9aa9fa7a670c2ef039cc6f224b5c09c6c0490c777119e9e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-23 06:33:00
+✅ TX 976a9972b00e6ea9a45dc024dddebf6e333907d99558ae4981e13eea8ac594ed | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-12-23 06:33:00
+✅ TX b092fd1a88f5dec3dfcc5ef2ab29e921a6a7a52f4048dac0ff81be1096d82551 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-23 06:33:00
+✅ TX 44cd1315f91931dde639c1d2a5d767e4f5ed0ffd11aa76810b52d29504ae686f | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-12-23 06:33:00
+✅ TX c2e658fe24eb2949535678a683f399b55893ed6b8c745727b0e9ff51e47d0851 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-23 06:33:00
+✅ TX 10fbeb3e797c9814311dd2b8f110229bd25f5715e2223da7f8b940e2a7c5d1af | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-30 04:12:00
+✅ TX bb3f5d9ac93fda9d5ff0fb3750b55530172671eba2541588f9ac6534267aae22 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-30 04:12:00
+✅ TX 1832538bc3de1d2f84c9868ad0a8991a9165c91d9fddba395d905f69ff5e747a | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-30 04:12:00
+✅ TX 2e6330356112bce4d738322d6f8155023d357c120143be0eb606ad58675dc65b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 216 | Timestamp: 2016-12-30 04:12:00
+✅ TX 3b51fa359c3752cf9873f38e70cf5b88ce2dbcc3e83cf8da1bdbfc5f1cee5ec8 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-24 16:48:00
+✅ TX 99ee377df57c026304741736d3d72570c3012ee8406d14254bf48dd265c44aad | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2017-01-24 16:48:00
+✅ TX 293ce613488043a0568e1b263c3b2c5a176d80edd03a3b6957c2dcd91114dd6a | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-24 16:48:00
+✅ TX 71fd1a90d9c31737692e9575f8f42d8beab08a37692f162a8a1d61f338dc048b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2017-01-24 16:48:00
+✅ TX 950d625a662b5164dab9d3c5e096d2d063cbf23d9d0d01f111ce187429062fcf | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-24 16:48:00
+✅ TX 6b7744cf48d0e413fbe2930d36d213b8774f14a1612c874bf16171dc74b2cdc4 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-25 15:34:00
+✅ TX 8a687a100fa1887258bffb980204791bcf219eddf27bae58f60ce3b75cc45c8c | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-25 15:34:00
+✅ TX 43e79dbc5026bc8ada2a7f369a6bcaa64b5a5f434f24c88ea7e0c2cc2c7166d2 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-25 15:34:00
+✅ TX 791232e091ef361d7f43ea0d466ccd40873f81c552af02c3159baf9f9235e33d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2017-01-25 15:34:00
+✅ TX 9c22e0eb8bdf2af2a08922ae415b97bdeb486ee2c7f4d48d06498e73dd87bd92 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-25 15:34:00
+✅ TX 3a1aa3b694a6ce30d0ae9be798de4f7fabfb2fde8173a355fa42cb19d2906357 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-28 08:23:00
+✅ TX 0c8f6f66ae420cf350d54d6bc899a3aa1eb08370243e6dc220be47b2bf44da2d | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-09-28 08:23:00
+✅ TX a74f43e3c6a61757e8e813f488e58b2b6ed95cfa230ca048698308e99f46a015 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-28 08:23:00
+✅ TX d647fbd4773a4dc8aa80070722a46e026c38973037512ed7144ab3936f2ec64c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-09-28 08:23:00
+✅ TX afef20e26991a3a04d9c25e9c604cc4710ac1abecb6e3c49c682da0ab5bafbbf | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-14 18:02:00
+✅ TX ea9cefd352b2280d09ec72e277feabb0d69b35ca7de38057851ba26a296fe9a7 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-10-14 18:02:00
+✅ TX 81d03da37cfdd91c795016a1cf4b2f9d0f628850184bfb55e79c0e7c421ed956 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-14 18:02:00
+✅ TX 50c81b817b1583b9e6e2a9bf93a2d7e3981598965660611e7b9c234655059c13 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-10-14 18:02:00
+✅ TX 26aafa4658c477dbde83a298531a5bd313fd010d9e566373372153e73752ccf3 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-14 18:02:00
+✅ TX 28c2b644a5448a65a1a2938cd696ac63fea9bc0cd13d01bd3b02bd369ca590a6 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-16 15:17:00
+✅ TX 8acb410f573dc48903ef3863b4c9972286ec4f0d909a28a4cd133f4df27faa12 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-16 15:17:00
+✅ TX 6c7302016bb4bc975802d4261ba3bb5e10a004685a1ecfa2d15dc6317c7e174c | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-16 15:17:00
+✅ TX 53043b70121df273bf421816dfab2d84a419f3519d043788f32ff8a4f4c155c8 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 214 | Timestamp: 2016-10-16 15:17:00
+✅ TX 29997c1f030be6a5de94c1f949b8d98fca777d53e5f9725878ec27d46cbda9cb | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-16 15:17:00
+✅ TX 6a62f8778c05c292fbdfb2df40891adbed8558956cb6ab7bb4a25273c19e6521 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-26 15:25:00
+✅ TX 76bb00a4d860cf21698554b626f0b2adeacaf22a9e99a46fb0e6a80ab2ebb6b0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-26 15:25:00
+✅ TX 611649faa915194e1a6a05cfbb82b9b85705b0cbda87f7cb34ed45f5b2bbab12 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-26 15:25:00
+✅ TX ec9d72dffdd07df0b77e4fc6332b85e43e3e0a404406322920d56c260cc998e9 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 214 | Timestamp: 2016-12-26 15:25:00
+✅ TX 54af4ebaa37c6098fa2fbf025ece8026a8752c99138129c3ecf252185dae3904 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-20 15:01:00
+✅ TX 15f90ef5f1cf641d6d20308c19bdcc071ed61eda1638aff768d326f668e16e87 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-20 15:01:00
+✅ TX da1eae99246c2f40aff3ca1138c5d201522eff616e26e883a54259efa1d600c0 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-20 15:01:00
+✅ TX 9f44fbf863a7ac836477c448515cecf75ce0f77278189c8040571c56b66cb562 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-09-20 15:01:00
+✅ TX e3139d4b0dc516e47824efd3c9cbf1b5cce41db6d6a20c61955c52f305387cfc | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-30 10:29:00
+✅ TX c0d924171d5693cf3b024fafb2fadbf23a34984007b46ba45e8c43543c203108 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-09-30 10:29:00
+✅ TX 63b75a6a80c8910b3fc27a5e01dee1652465f14707bbe4b24c614d79cdc723ba | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-30 10:29:00
+✅ TX 019cb7eb16e3cdc63aa54a5119e2ebbbc32c1996a3be1ffbb183f2f69bbbeaf8 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 202 | Timestamp: 2016-09-30 10:29:00
+✅ TX 6eb28cbee75a801cb22fcabfd0e576d2a743faa6e708ddd9d1b0a14915a97a20 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-18 02:29:00
+✅ TX 4748db0b8f7b5ba523abd3c4c5d8ce71858f1cd1ff12a45e79850618ef61f40b | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-18 02:29:00
+✅ TX b5c4f6c284dd72eb1566221c3f1c8d67e81435be3c151f23d49f0d50077a5e30 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-18 02:29:00
+✅ TX 8821f53a43d215210129821c7308ac1b10cd7ddbbcf63176d0043f8396c967f2 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-08-18 02:29:00
+✅ TX 007788fd6f9b264e802318ebfd120f972bebb8bcf9083157d1e3e030d7e3a796 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-23 10:16:00
+✅ TX 1d92efccd325ede73a1100658b44afe1d486f3780dfe806e31fb17291c0a4d0a | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-09-23 10:16:00
+✅ TX 23a504f1f503bc0bf1d09cc057fc2048d2ade2a60afd4e62a5e34990325667ca | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-23 10:16:00
+✅ TX 63a631eb73ebc74e13ba61357cbbffe61ff88b5d25f08236de74c17874e4f180 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-09-23 10:16:00
+✅ TX 9fb422eeaa70b3beff6608e8f66e99714b19b17186c7428e2e6ab7f1b357d212 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-23 10:16:00
+✅ TX 03a8bc5a1c81c53f8595b758bc0198dbbd713e8b4b04c87b0460837c4558d73d | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-17 22:57:00
+✅ TX 78f6e157d823da2db54862e6cc7799a8af912b35ff9ca9aec3c539eab29e5c8d | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2017-01-17 22:57:00
+✅ TX 176a098114740e7a107d5dbdd1f76b7ea80c80ff965e2118192f5830c4ec7eff | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-17 22:57:00
+✅ TX 109d1d8b5eccab1893551d0813c47f67c5433381cfc13e8e8e9bee5cee495ef7 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2017-01-17 22:57:00
+✅ TX ca22a554d672f3ca8447960152b3af9857c19d839861a8e0f8d62a2fbf36c2ba | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-20 17:39:00
+✅ TX f5da4fc02e44f5af652d228fcbc94cc86066d6a1c1f66ea5a4f0ceaadd135d24 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-08-20 17:39:00
+✅ TX 515b8c33f07cebfb7817289a1c24ad689208c15ace1874f25ae49101fe020558 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-20 17:39:00
+✅ TX de87a22e7c978eafee4932a6c339660f3b99773c375e3f150c1e491e373ea84c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 202 | Timestamp: 2016-08-20 17:39:00
+✅ TX 81f1a17b520ca5a29053dca39c9c0bea55507488acc2fd145ba5778e2a91ab06 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-20 17:39:00
+✅ TX 99405235debfda8bff1a386bf433d9322899faaaf8e921527c676e4f5ae90982 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-01 08:51:00
+✅ TX 76350bf08f00da9902ec1027c7360cdba068e6d2818c31329ab14aa7fc259b7e | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-01 08:51:00
+✅ TX 502d9d44177798b91d83febead81a874745d6f65995a15f080c8b5e4ac9820c4 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-01 08:51:00
+✅ TX e456a81e60a182d646277bef9af7bed3442c63976b0724ee6125b7d58edd047d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-10-01 08:51:00
+✅ TX e5deb6d21148cff7e6e3f1d9c93e5410574328fa582142355a0fc7b80693661c | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-01 08:51:00
+✅ TX fab8b09bab0b09c873cdfd4adacf6d076ffd78615acf0b6ffb267c7dcd184ea0 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-28 03:09:00
+✅ TX 65c5e71107bfda4a80874d646f15f33fad0da690fac00bf608e4f16d01de4a9c | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-09-28 03:09:00
+✅ TX 515536018051c3a9f658b8552a37521fa7432903a4650ea22a060895463833d5 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-28 03:09:00
+✅ TX 2fd42ace5c959b74cb758b871b4f124f904182f2dd6b6302741848e41251d56d | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-09-28 03:09:00
+✅ TX 602d237d2b6b0b58e1f565f315ccc770ab2542bb2c66ea50d88e2669651e44dc | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-28 03:09:00
+✅ TX 8184d0789af922e5174fcd5bd55197d048f696a14b21642358c174aa9ba51f81 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-31 23:27:00
+✅ TX 1bec682a2f7951ed4057e7a17e9760d225266a8aa15105a30802f0b6a2fc1502 | SENSOR_Temperature_°C | Temperature (°C) | Value: 10 | Timestamp: 2016-08-31 23:27:00
+✅ TX 5c2818dcc4e6084b9b7fa7012a9b1f36e583476d153a234139fc27b559df6278 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-31 23:27:00
+✅ TX 908290b83e8d0cae601e4a3b5440c399c32de0643ff4ae07e2b2f1058f1b1998 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-08-31 23:27:00
+✅ TX d30b5be8bfa369716b279f189eadd7f2e408fe94f29de5be2ff4075f40eefda7 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-31 23:27:00
+✅ TX 478c530a1cea71c103e6510927d9136a09910d9963fc15cb83c97d69641e5618 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-05 10:51:00
+✅ TX e6a42fac1285221862789de6a8799c2102698d574a977847e99593a488c0792a | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2017-01-05 10:51:00
+✅ TX a094695a5cb512c734cb167ff0a92186a7ede322d172294769a32d3b00308323 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-05 10:51:00
+✅ TX 6e1b9b4973b396e557e443da5c2c27d0e9b9268213fa893b8b1736952c2de66b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 213 | Timestamp: 2017-01-05 10:51:00
+✅ TX 9f08678e048d31ac2e91c7d2f81210cad96572a732e090a9f49583823e239bdd | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-05 10:51:00
+✅ TX 1742fee88d5d99205ee3045e50174a3db75224b18df6662592822a96f854724b | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-17 20:59:00
+✅ TX c775806b41376b3404576082dd1a1502909b61bf8c0102eedd811a0e44ddbeb8 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2017-01-17 20:59:00
+✅ TX bf0a0b04babab260fe58835b99a46a8df01d16a2875303a2c30cef16d91db069 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-17 20:59:00
+✅ TX 861e1aea01c0f64a1dc2956b934e819923d8f482532bfa19246143bf796c0dee | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2017-01-17 20:59:00
+✅ TX 1a9b0e44e50d455e0d4009a286adacc68e477b9446c8061b44eb96594a7ebeed | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-06 09:51:00
+✅ TX 0b801bd7544c48c33f1eae1d973fea67d770462107f34018e6fb1379af670fa0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-06 09:51:00
+✅ TX 3c1300e4a4468fba33e3032d240b280eb46ea027b0f418c0b19bdc5149af0299 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-06 09:51:00
+✅ TX f275967af0119b6e4e675db00b6ddea0c62bf7311b087bdfff3e765339434659 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-10-06 09:51:00
+✅ TX a75f1e5c3b104ee1021320885eff76a72f4949e86e7bb989d24024175bb6abed | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-10-06 09:51:00
+✅ TX efada77432eea42cde1375e4a16acf9349b2151cc0066596a9b71df7abb56867 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-09 09:08:00
+✅ TX 534b0aa18565221053c7428d49b00ec61b3651366a6830fa81a7585acfde760a | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-08-09 09:08:00
+✅ TX 90c86e18b09c0c72b2e03873d23ce0c5764d251a88ce05c6eae80b473789a997 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-09 09:08:00
+✅ TX f31771b91c6586d28fc7b59ed2a7b1e173a00e0ff77fe99d370f594ae549d039 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 210 | Timestamp: 2016-08-09 09:08:00
+✅ TX addd064051f8def51c090a623a86b9c56829b58d0209b4681c2d2c1212c404ea | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-09 09:08:00
+✅ TX 76fcca1f355799618b0f1e7ae29dd690872672d47fa3ea792e41adcb7d0ceecf | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-29 11:38:00
+✅ TX 2bf78a934933de29adf0de84a193124c837116c20ec7fb0174b7082642458f10 | SENSOR_Temperature_°C | Temperature (°C) | Value: 10 | Timestamp: 2016-11-29 11:38:00
+✅ TX 3f1d30535e2fc5711bdbfc96477bdb73dda38d9276f00cfaebc0665e05537783 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-29 11:38:00
+✅ TX 6dabc06d3a8173670135c5139eaba103a43b2e3b710b33cb0c12a98572efcfd7 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-11-29 11:38:00
+✅ TX 52e5b66ce9bac24c37e1d8fe35f228caf731dd3bdb53a5139422a46c77802272 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-29 11:38:00
+✅ TX 164b805883497debe5b520105ca9697c17691eb9690710a7fc79987f3e4ba558 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-30 03:25:00
+✅ TX 3cebad063da649361c199f8111cb0d655ceac2e0cbefdf16a48e57a2ebb2cdc0 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-30 03:25:00
+✅ TX 3fc0c91fdac44431b01f8a382950525537299a3d78d1352dbf8d802c1142180c | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-30 03:25:00
+✅ TX 541873bb013264b8b262c62de3ae345fc35efc628a1a83016d2a0ed21660369a | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 209 | Timestamp: 2016-10-30 03:25:00
+✅ TX 5d187788abd13bc5b3f5d59b53da5c439bb499783d399415ae71362a1bc67e3a | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-06 01:45:00
+✅ TX e2376eb4ec0a0058f421307653f8c08494e502d948d8a3b5df9223512511d045 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-06 01:45:00
+✅ TX f97bb65e45f5af2c9ffb595e2feb6c599027c41b7a068a7ecc2456bc95eb63cf | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-06 01:45:00
+✅ TX c13ac66fbd26dcc621680d72ac0dbd5b9a65bcfab77016108a1b5ae95c0da282 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 206 | Timestamp: 2016-09-06 01:45:00
+✅ TX d7934935bdea72b946e6539d263c26b0b5675d4eba157ddccae7c5b2a467a577 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-04 15:46:00
+✅ TX c3cce00eee9f96f93dc53ec44c5d95b738a6f817db4ac622d5aa14ebc371ec35 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-04 15:46:00
+✅ TX 87594453caec49b92a4738108e04774a8c1526b98df92fa7a0618adfd262b678 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-04 15:46:00
+✅ TX e65acd6a0ce59279223cd7d6c12a6d4be3bdb03f10c32070b6dd3faa41da1c08 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-12-04 15:46:00
+✅ TX 4f60589a1ded62e1f34ae26550e29794d926be48fed8c98b2770a06ff57c32d5 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-04 15:46:00
+✅ TX 69a77e4860d8a2c46974b31842cff69b5946a5a20b196e1eb5490d06b3d88e0e | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-27 22:59:00
+✅ TX b2fae73d888f49413de1dd694afafa3e2038f769588d28f87f86f992fcab9486 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-10-27 22:59:00
+✅ TX c8ff9ac54823e8783617376ca588bb86d6bf735543d26547b4853507df7c22ec | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-10-27 22:59:00
+✅ TX f55356309253e556aaf141975d25bd93b21fd8576879d425c977c82063c88c96 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-10-27 22:59:00
+✅ TX f88e169d51e8c57e5c40190fbada2a47ee7bb1c6f667fdc3003a81ce199b7e0b | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-25 17:02:00
+✅ TX 15f86b3aa7baa40809e2f5db51ae0f4d4a5aef0ce53d3b4c07fafce5664128c1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-11-25 17:02:00
+✅ TX 8e500a4d70c13f4b5c0205dd9a6079efdf7756b8fc2d071d36f2ab4bad76bfba | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-25 17:02:00
+✅ TX b575f27f677ef3e4aa3f060d73b1692044f791ac60dbf84efa992ff38a58c0df | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 211 | Timestamp: 2016-11-25 17:02:00
+✅ TX a380d8554900978310843def3391f96aa331b707bd88e880b9ea57057dfa47b6 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-11-25 17:02:00
+✅ TX ac3a0a679897325b6cd0aa4e1218ff5f371f919122e1829246abbaa2b80ceb50 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-09-18 01:26:00
+✅ TX 31941cafb2c8f24234977587f344f96b45f753233409db33155a75398f0bddf1 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-09-18 01:26:00
+✅ TX e7030ef308de756b06957597f36149994048253190767edd4a2913cbec720d2f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-09-18 01:26:00
+✅ TX bacb8049195edfbad76f158e9b6f29f80283817dcf87104696b3e2c69b664f70 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-09-18 01:26:00
+✅ TX ac0347ffbddd903df1ee0d53b1c2ace80bdde92959ec1906516abe3d05acb213 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-09-18 01:26:00
+✅ TX dce9c6fef7f45289398b4f5eecc153d7ab972058b311bc5bb630bd3ea0e31159 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-25 10:25:00
+✅ TX bb440ac7e8f20f00bbca68a40aaf60bf8462aa68e639e6e364b1eb88b3d33130 | SENSOR_Temperature_°C | Temperature (°C) | Value: 8 | Timestamp: 2016-12-25 10:25:00
+✅ TX 3c9503fef93ca3bbe173a947a95ea00642980df35a677131d8cb6856297d47d9 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-25 10:25:00
+✅ TX 56bc6391a2ebcc58fbd210144fb2772759c5870f713af3c1dd3c4268b64c4d0c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 223 | Timestamp: 2016-12-25 10:25:00
+✅ TX 929e89d86ec31e72622960d99f17e7d61c0b87f1ed57adb08aa5017460413380 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-25 10:25:00
+✅ TX 2489ba32af1351d6a22e21947f8845523e37cc4f8d546192b27892d8d5960f98 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-23 22:45:00
+✅ TX 1f5216d01a8c42281fa4f28b9ffa73ade2adddc3cc974a4b86a1d3c80c7b8f85 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-23 22:45:00
+✅ TX 3a7059098f33e08a7bcaafe521347a9f7c5d9a7024824a20d84102bdf74cd806 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-23 22:45:00
+✅ TX c256b4420127a7cb79f6b5643bbd12ddb09d11d8f51525508b5bdb56365f7099 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 212 | Timestamp: 2016-11-23 22:45:00
+✅ TX 9aa595ece6cef51205f96eb99db8ba64a9d573efa4936b66148e81b54a3b007d | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-11-07 20:41:00
+✅ TX cf7482c3506b7fffa1b4409fd0b8b091c96c904bdb80888852573f47f1d78970 | SENSOR_Temperature_°C | Temperature (°C) | Value: 9 | Timestamp: 2016-11-07 20:41:00
+✅ TX 86bc50945525b44b1299126f9b791455c06882e95998dda27e2f59c416ff9dc6 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-11-07 20:41:00
+✅ TX e7447a3347f27fd1628f5a3032d9ea68581aa0a055d5d131c346b497a9c5d6ab | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 204 | Timestamp: 2016-11-07 20:41:00
+✅ TX 1ed0274271c9bb3dee7b9512dd511fa1e1110c606743d4dd8f5dcfe547489260 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-30 19:07:00
+✅ TX 2f5e7af1f3cf4b366881c4326768db9956a2c525ba450d133b506a64b6a3265c | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-30 19:07:00
+✅ TX 82009192a515937f16b6aeb52f3167090ec5267623a91d0493ae135d14f7733a | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-30 19:07:00
+✅ TX fb9255dd889f6b4b493b79a416c283b9cbb382bf800608efe346b7a6c7439299 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 215 | Timestamp: 2017-01-30 19:07:00
+✅ TX e280599a629dcbdd9d43f46e405d10bbcab85e0da6a9ddfe3725d95345dd3b57 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2017-01-30 19:07:00
+✅ TX 7149407c47a6618c21a9bff53e25447d0bb544198b992b326e03b277d2c21357 | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-09 16:52:00
+✅ TX 32ae909b7b5d6ad4becdae87f90c3292e520ff43cbabd95fd997b216d5d7a994 | SENSOR_Temperature_°C | Temperature (°C) | Value: 6 | Timestamp: 2016-08-09 16:52:00
+✅ TX 79167da036566d8dbf17b448f5c2ab7adfc55a326ca08101774f79064a9ecf96 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-09 16:52:00
+✅ TX 981e84d98ecdb9775e691a9c9fc29349f92e8b4fcb5b2a3860f3837ca308603b | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 205 | Timestamp: 2016-08-09 16:52:00
+✅ TX 3adafd5dda1dd06f174fc13f46c408e0945418647291854badf3c9068a27764c | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-09 16:52:00
+✅ TX 8f99b10159c5e636d8f09a6617e2ab8b0a4f8f747a7eb29fd79d8195702c49ed | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-08-22 18:11:00
+✅ TX 9dfff538a882279f81f9574902a8047ea10a30804031ab53439c5b144885afcc | SENSOR_Temperature_°C | Temperature (°C) | Value: 11 | Timestamp: 2016-08-22 18:11:00
+✅ TX 223f8f67458225758efc0cd84cd93325caca71b19266845d2d97be70b3ac1c6b | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-08-22 18:11:00
+✅ TX 57502aad28478894c46387d93acbe851b475268fbb36c02b6906d62b6b2e78b5 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 218 | Timestamp: 2016-08-22 18:11:00
+✅ TX 1c212afd919f8dfc750b46e48490d35edce0a7e477518aa23972186a6e64c436 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-08-22 18:11:00
+✅ TX 4cd90bd8a57caca0b79f5eacc5bd857218814b6507cbb60d87b6c0aa598ac2fb | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-12-07 13:48:00
+✅ TX 3f2b64c623bb06ac607a1a32e179ea7b3ec2ae1cfd864731a5ee731167ea2d78 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2016-12-07 13:48:00
+✅ TX 84deeebd34884541f8bd55c5d91a68d87dfd189b317a69324d187afe03c21c43 | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2016-12-07 13:48:00
+✅ TX f3479d94f36ebd6553cee6786c32ef55d5ac1a4e76aeab87ce49ac14fe2a5c98 | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2016-12-07 13:48:00
+✅ TX 011d4701834d0a2027234f745e53c899f6b4eeb5aecbb9ff6b385b516d45f8c3 | SENSOR_ClO2_mg_L | ClO2 MS1 (mg/L) | Value: 0 | Timestamp: 2016-12-07 13:48:00
+✅ TX ed4fa90a76e5d31be6415e3e21e59d4d7c7360f372fd8ee1765fba67e873d6c4 | SENSOR_pH | pH | Value: 8 | Timestamp: 2017-01-24 17:42:00
+✅ TX dc0fce26c701c8a144b45511be59fc63445a22aca536cf4161ace56ce0dac410 | SENSOR_Temperature_°C | Temperature (°C) | Value: 7 | Timestamp: 2017-01-24 17:42:00
+✅ TX 0310207fd34acc285c77adf5c93d43ce7f992fd8560dbd1d8493cc337505dc1f | SENSOR_Turbidity_NTU | Turbidity (NTU) | Value: 0 | Timestamp: 2017-01-24 17:42:00
+✅ TX e41bf67d92017a35080564b15f122dc25524047120e62f6fb880605f1688c84c | SENSOR_Conductivity_µS_cm | Conductivity (µS/cm) | Value: 207 | Timestamp: 2017-01-24 17:42:00
+✅ TX bcfeccbf351015d1b1ed99b2742e1714a99770a4c5bc7ed6058693f100bd6bab | SENSOR_pH | pH | Value: 8 | Timestamp: 2016-10-26 00:45:00
