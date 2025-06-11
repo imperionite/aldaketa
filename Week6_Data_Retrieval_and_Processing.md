@@ -90,7 +90,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 ---
 
-### ❌ `clearRecords()`
+### `clearRecords()`
 
 **Purpose**: Deletes all stored records.
 
@@ -226,7 +226,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 ---
 
-## 💡 Notes on Gas Cost & Optimization
+## Notes on Gas Cost & Optimization
 
 * **Single `storeData()`**:
 
@@ -241,7 +241,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 ---
 
-## 🧪 Recommended Testing Flow
+## Recommended Testing Flow
 
 1. ✅ Deploy smart contract → `deploy.py`
 2. 🔄 Insert records → `interact.py`
