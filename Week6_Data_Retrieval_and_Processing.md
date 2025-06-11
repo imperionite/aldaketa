@@ -2,9 +2,13 @@
 
 ## 🌊 Water Quality Blockchain Ledger – Transaction Documentation
 
-A recap of my MS 1 submission and continuation leading to MS 2. 
+The water quality Blockchain Ledger development process involves multiple stages, including smart contract creation, deployment, data interaction, record retrieval, and management, all relying on Ethereum blockchain technology to ensure secure, transparent, and immutable logging of IoT sensor data.
+
+This section serves as the documentation for the submitted homework pertaining to week 6, which emphasizes the functionality of data retrieval and processing within the blockchain ledger, as well as a summary of my MS 1 submission that transitions into MS 2. While the primary emphasis of this documentation is on data retrieval and processing, all functionalities coded within the smart contract I utilized are also presented to provide insight into my current standing in the ADET course.
 
 ### Smart Contract: `IoTDataStorage.sol`
+
+The core of the system is the Smart Contract `IoTDataStorage`, written in Solidity 0.8.0, designed to store, retrieve, and manage water quality sensor data securely on-chain.
 
 Check the smart contract that I used [here](https://github.com/imperionite/aldaketa/blob/main/contracts/IoTDataStorage.sol).
 
@@ -14,16 +18,16 @@ Check the smart contract that I used [here](https://github.com/imperionite/aldak
 
 **Inputs**:
 
-* `sensorId (string)`: Unique ID of the IoT sensor (e.g., `"SENSOR_pH"`).
-* `dataType (string)`: Type of data (e.g., `"pH"`).
-* `value (int256)`: Measured value from the sensor.
+- `sensorId (string)`: Unique ID of the IoT sensor (e.g., `"SENSOR_pH"`).
+- `dataType (string)`: Type of data (e.g., `"pH"`).
+- `value (int256)`: Measured value from the sensor.
 
 **Behavior**:
 
-* Validates non-empty `sensorId` and `dataType`.
-* Captures `block.timestamp` as `timestamp`.
-* Appends a `DataRecord` to `records`.
-* Emits `DataStored` event.
+- Validates non-empty `sensorId` and `dataType`.
+- Captures `block.timestamp` as `timestamp`.
+- Appends a `DataRecord` to `records`.
+- Emits `DataStored` event.
 
 **Event Emitted**:
 
@@ -39,16 +43,16 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 **Inputs**:
 
-* `sensorIds`: Array of sensor IDs.
-* `dataTypes`: Array of data types.
-* `values`: Array of values.
+- `sensorIds`: Array of sensor IDs.
+- `dataTypes`: Array of data types.
+- `values`: Array of values.
 
 **Behavior**:
 
-* Checks all input arrays are of the same length.
-* Validates each input.
-* Loops over arrays, storing each record with the same timestamp.
-* Emits one `DataStored` event per record.
+- Checks all input arrays are of the same length.
+- Validates each input.
+- Loops over arrays, storing each record with the same timestamp.
+- Emits one `DataStored` event per record.
 
 **Use Case**: Suitable for batch uploads (e.g., sensor gateways or synthetic testing).
 
@@ -60,11 +64,11 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 **Input**:
 
-* `index (uint)`: Position in `records` array.
+- `index (uint)`: Position in `records` array.
 
 **Returns**:
 
-* `(sensorId, dataType, value, timestamp)`
+- `(sensorId, dataType, value, timestamp)`
 
 ---
 
@@ -74,7 +78,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 **Returns**:
 
-* Array of `DataRecord` structs.
+- Array of `DataRecord` structs.
 
 **Use Case**: Useful for dashboards, analytics tools, and full data export.
 
@@ -86,7 +90,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 **Returns**:
 
-* `uint` – total length of `records[]`.
+- `uint` – total length of `records[]`.
 
 ---
 
@@ -96,7 +100,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 **Behavior**:
 
-* Uses `delete records;` to remove all elements.
+- Uses `delete records;` to remove all elements.
 
 **Note**: This is **gas-expensive** due to the cost of clearing large storage arrays. Use cautiously.
 
@@ -111,15 +115,18 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 **Transaction**: Deploy Smart Contract
 **Functionality**:
 
-* Compiles the Solidity contract.
-* Builds and signs a deployment transaction.
-* Sends it to the blockchain.
-* Waits for and logs the contract address.
+- Environment Setup: Uses .env to configure GANACHE_URL, PRIVATE_KEY, and ACCOUNT_ADDRESS for secure access to the Ethereum test network.
+- Compiler Setup: Installs and uses Solidity compiler version 0.8.0 for contract compilation.
+- Contract Compilation: Reads source, compiles to extract ABI and bytecode with detailed output selection for deployment.
+- Deployment: Constructs a deployment transaction, signs it using the private key, and broadcasts it to the blockchain.
+- Transaction Handling: Waits for transaction confirmation to obtain the deployed contract address.
+- Persistence: Saves ABI to JSON and appends contract address to .env for easy reference by other scripts.
+- Robust error and status logging guide users through deployment steps ensuring reliability.
 
 **Outcome**:
 
-* Deployed contract available at `CONTRACT_ADDRESS`.
-* ABI saved to `contract_abi.json`.
+- Deployed contract available at `CONTRACT_ADDRESS`.
+- ABI saved to `contract_abi.json`.
 
 ![Deploy Transaction](https://drive.google.com/uc?id=1N7B8FcR5Z13t9UE3MKmv7jHbJ7z11NjL)
 
@@ -131,13 +138,18 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 **Data Source**: `synthetic_dataset.csv`
 **Process**:
 
-* Reads CSV, samples 100 rows.
-* Extracts and cleans data from columns (e.g., pH, Turbidity).
-* For each reading:
+- Data Loading: Reads water quality readings from a synthetic_dataset.csv file into a pandas DataFrame and extracts a random sample of 100 entries for processing.
+- Field Mapping: Maps standard water quality parameters (pH, temperature, turbidity, conductivity, chlorine dioxide) to corresponding sensor IDs used in smart contract calls.
+- Transaction Building: For each sensor reading:
 
-  * Builds `storeData()` transaction.
-  * Signs and sends it.
-  * Logs the result in `iot_data_log.txt`.
+  - Builds `storeData()` transaction.
+  - Prepares and signs transactions invoking the storeData function with sensor ID, data type, and integer value.
+  - Logs the result in `iot_data_log.txt`.
+  - Validates non-null numeric values.
+
+- Transaction Execution: Sends signed transactions to the blockchain, awaits receipt, and logs transaction hashes with detailed metadata including sensor type and timestamp.
+- Rate Limiting: Includes a short delay to avoid network congestion and nonce conflicts.
+- Error Handling: Catches exceptions per record, logging errors with context for troubleshooting.
 
 **Logged**:
 
@@ -149,30 +161,34 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 ---
 
+## Blockchain Data Retrieval
+
+Two retrieval approaches provide comprehensive data auditing:
+
 ### `getAllRecords.py`
 
 **Transaction**: Calls `getAllRecords()` (read-only)
 **Process**:
 
-* Fetches all records.
-* Converts to pandas DataFrame.
-* Converts timestamps to readable format.
-* Saves to `cleaned_iot_data.csv`.
+- Connects to the blockchain and fetches the entire records array via getAllRecords.
+- Converts UNIX timestamps to human-readable datetime formats.
+- Stores cleaned and structured data into CSV for offline analysis. Saves to `cleaned_iot_data.csv`.
+- Handles missing or corrupt data gracefully.
+- Outputs previews for verification.
 
 **Output**:
 
-* CSV file with structured IoT sensor records.
+- CSV file with structured IoT sensor records.
 
 ![Get All Records](https://drive.google.com/uc?id=1d6CysDSSAwV3lKnPWDOoSd7yxe5y2JEU)
-
----
 
 ### `retrieve_records.py`
 
 **Transaction**: Calls `getAllRecords()`
 **Purpose**:
 
-* Prints each record to the terminal for inspection.
+- Streams record-by-record to console with formatted display for quick inspection.
+- Emphasizes transparency around sensor, data type, value, and timestamp.
 
 **Format**:
 
@@ -181,6 +197,9 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 ```
 
 ![Retrieve Records](https://drive.google.com/uc?id=1d6CysDSSAwV3lKnPWDOoSd7yxe5y2JEU)
+
+Both retrieval methods ensure immutable data transparency, supporting compliance and reporting.
+
 ---
 
 ### `getTotalRecords.py`
@@ -188,7 +207,7 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 **Transaction**: Calls `getTotalRecords()`
 **Purpose**:
 
-* Retrieves and prints the number of total records stored.
+- Retrieves and prints the number of total records stored.
 
 **Output**:
 
@@ -196,20 +215,19 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 📊 Total records stored: <number>
 ```
 
-![Get Total Records](https://drive.google.com/uc?id=1v32bdNFYM0ZwOUrLULYJy2y8DCzGeJqP)
----
+## ![Get Total Records](https://drive.google.com/uc?id=1v32bdNFYM0ZwOUrLULYJy2y8DCzGeJqP)
 
 ### `clear_records.py`
 
 **Transaction**: Calls `clearRecords()`
 **Purpose**:
 
-* Clears all data from the blockchain.
+- Clears all data from the blockchain.
 
 **Behavior**:
 
-* Requires high gas limit (`10,000,000`) to succeed.
-* Sends and logs the transaction hash after deletion.
+- Requires high gas limit (`10,000,000`) to succeed.
+- Sends and logs the transaction hash after deletion.
 
 **Caution**: Avoid using on Ethereum Mainnet unless necessary due to high gas cost.
 
@@ -217,27 +235,37 @@ event DataStored(string sensorId, string dataType, int256 value, uint256 timesta
 
 ---
 
-### `utils.py`
+### Auxiliary Utility: `utils.py`
+
+Offers a reusable function load_contract to:
+
+- Connect Web3 to the configured network.
+- Compile and extract ABI dynamically.
+- Attach to the deployed contract instance.
 
 **Helper Functions**:
 
-* `load_contract(address)`: Compiles contract and connects to a deployed address.
-* Ensures connection to Ganache and compiles ABI on the fly.
+- `load_contract(address)`: Compiles contract and connects to a deployed address.
+- Ensures connection to Ganache and compiles ABI on the fly.
+- Provides connectivity validation and error reporting to facilitate consistent interaction workflows.
 
 ---
 
 ## Notes on Gas Cost & Optimization
 
-* **Single `storeData()`**:
+- **Single `storeData()`**:
 
-  * \~20,000–40,000 gas per record depending on string length.
-* **Batch `storeBatchData()`**:
+  - \~20,000–40,000 gas per record depending on string length.
 
-  * \~100,000+ gas for 5 records.
-* **Clear operation**:
+- **Batch `storeBatchData()`**:
 
-  * **Very expensive** due to full array deletion.
-* **Tip**: For Mainnet, store only hashes or aggregated data off-chain (e.g., via IPFS or Filecoin).
+  - \~100,000+ gas for 5 records.
+
+- **Clear operation**:
+
+  - **Very expensive** due to full array deletion.
+
+- **Tip**: For Mainnet, store only hashes or aggregated data off-chain (e.g., via IPFS or Filecoin).
 
 ---
 
@@ -262,4 +290,3 @@ event DataStored(
     uint256 timestamp
 );
 ```
-
