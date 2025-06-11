@@ -24,7 +24,7 @@ nonce = w3.eth.get_transaction_count(ACCOUNT_ADDRESS)
 tx = contract.functions.clearRecords().build_transaction({
     'from': ACCOUNT_ADDRESS,
     'nonce': nonce,
-    'gas': 5000000, # increase gas limit to be able to clear the records as deleting is too expensive
+    'gas': 10000000, # increase gas limit to be able to clear the records as deleting is too expensive
     'gasPrice': w3.to_wei('20', 'gwei')
 })
 

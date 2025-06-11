@@ -13,11 +13,10 @@ Documentation for Homework: Smart Contract Data Storage (Python/Web3.py Implemet
 $ ganache --deterministic 
 
 # 3. Run deploy.py to compile and deploy the Solidity smart contract with the Python script; contract_abi.json generated
-$ python scripts/deploy.py
+$ python scripts/deploy.py # This will also generate the CONTRACT_ADDRESS environment variable in .env; delete the old environment variable on the next run
 
 # 4. Connect to the deployed contract, store a few data points from your synthetic dataset CSV and optionally retrieve and display stored records
-# iot_data_log.txt will be generated
-$ python scripts/interact.py # This will loop 5 environmental parameters in one row and sampled only the first 10 rows from the synthetic dataset
+$ python scripts/interact.py # This will loop 5 environmental parameters in one row and randomly sampled 100 rows from the synthetic dataset that will saved approx. 500 records but it will skip NAN values, so the resulting saved records accounting only < 500 records; # iot_data_log.txt will be generated
 
 # 5. Retrieve all recorded data points from the CSV
 $ python scripts/retrieve_records.py

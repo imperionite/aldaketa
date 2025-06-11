@@ -25,7 +25,7 @@ df_sample = df.sample(n=100, random_state=42).reset_index(drop=True)
 print("🎲 Random sample selected. Preview:")
 print(df_sample.head())
 
-# Fields of interest (same as before)
+# Fields of interest
 FIELDS = {
     "pH": "SENSOR_pH",
     "Temperature (°C)": "SENSOR_Temperature_°C",
