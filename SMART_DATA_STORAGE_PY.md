@@ -33,6 +33,7 @@ $ python scripts/getAllRecords.py
 $ python scripts/clear_records.py # too expensive
 
 # streamlit 
+streamlit run main.py  # MS 2 project
 streamlit run streamlit_dashboard.py 
 
 ```
