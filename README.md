@@ -119,14 +119,6 @@ This is inherent to Streamlit’s reactivity + heavy visualizations.
 
 ![Image 1](https://drive.google.com/uc?id=1MVcPi4EhK8l6Wcog8aDrqVoAEQ8n-bro)
 
-### License
-
-This project is for educational purposes and is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-### Credits
-
-A project built by [**Arnel Imperial**](https://github.com/imperionite)
-Source code: [https://github.com/imperionite/aldaketa](https://github.com/imperionite/aldaketa)
 
 
 
